@@ -19,8 +19,8 @@
   * Real-time operating systems
 - 📫 How to reach me:
   * Email: spranay07@gmail.com
-  * LinkedIn: [linkedin.com/in/pranay-saha/](linkedin.com/in/pranay-saha/)
-  * GitLab: [gitlab.com/dvader](gitlab.com/dvader)
+  * LinkedIn: [linkedin.com/in/pranay-saha/](https://www.linkedin.com/in/pranay-saha/)
+  * GitLab: [gitlab.com/dvader](https://www.gitlab.com/dvader)
     
 ![leet Stat](https://leetcard.jacoblin.cool/psaha1?ext=heatmap)
 <!--
