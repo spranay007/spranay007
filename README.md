@@ -22,7 +22,7 @@
   * LinkedIn: [linkedin.com/in/pranay-saha/](linkedin.com/in/pranay-saha/)
   * GitLab: [gitlab.com/dvader](gitlab.com/dvader)
     
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/psaha1)
+![leet Stat](https://leetcard.jacoblin.cool/psaha1?ext=heatmap)
 <!--
 **spranay007/spranay007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
