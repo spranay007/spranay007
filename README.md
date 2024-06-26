@@ -21,7 +21,7 @@
   * Email: spranay07@gmail.com
   * LinkedIn: [linkedin.com/in/pranay-saha/](https://www.linkedin.com/in/pranay-saha/)
   * GitLab: [gitlab.com/dvader](https://www.gitlab.com/dvader)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spranay007&layout=compact&themedark)
 ![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=spranay007&show_icons=true&theme=dark&hide=contribs)
 ![leet Stat](https://leetcard.jacoblin.cool/psaha1?ext=heatmap)
 <!--
