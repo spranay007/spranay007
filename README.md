@@ -21,7 +21,8 @@
   * Email: spranay07@gmail.com
   * LinkedIn: [linkedin.com/in/pranay-saha/](https://www.linkedin.com/in/pranay-saha/)
   * GitLab: [gitlab.com/dvader](https://www.gitlab.com/dvader)
-    
+
+[![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=spranay007)](https://github.com/anuraghazra/github-readme-stats)
 ![leet Stat](https://leetcard.jacoblin.cool/psaha1?ext=heatmap)
 <!--
 **spranay007/spranay007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
