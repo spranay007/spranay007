@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Pranay Saha👋
 ## 🚀 About Me
 ## I am an experienced Embedded Systems Engineer with a demonstrated automotive and EV industry history. My expertise lies in developing and optimizing embedded systems and algorithms, particularly for Battery Management Systems (BMS). I am currently pursuing my Master of Science in Computer Engineering at [Stevens Institute of Technology](https://www.stevens.edu/) 
 - 🔭 I’m currently working on
